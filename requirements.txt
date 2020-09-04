@@ -136,7 +136,6 @@ pymongo==3.10.1
 pynput==1.6.8
 pyOpenSSL==19.1.0
 pyparsing==2.4.2
-pypiwin32==223
 pyrsistent==0.15.4
 pyspeedtest==1.2.7
 pytest==5.4.1
